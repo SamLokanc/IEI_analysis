@@ -1,0 +1,30 @@
+proj,sample_type,sample_abbr,matched_tissue
+TCGA-LAML,Primary Blood Derived Cancer - Peripheral Blood,TB,blood
+TCGA-STAD,Primary Tumor,TP,stomach
+TCGA-SKCM,Primary Tumor,TP,skin
+TCGA-BRCA,Primary Tumor,TP,breast
+TCGA-BLCA,Primary Tumor,TP,bladder
+TCGA-CESC,Primary Tumor,TP,cervix uteri
+TCGA-DLBC,Primary Tumor,TP,blood
+TARGET-ALL-P1,Primary Blood Derived Cancer - Bone Marrow,TBM,bone marrow
+TARGET-ALL-P1,Primary Blood Derived Cancer - Peripheral Blood,TB,blood
+TARGET-ALL-P2,Primary Blood Derived Cancer - Bone Marrow,TBM,bone marrow
+TARGET-ALL-P2,Primary Blood Derived Cancer - Peripheral Blood,TB,blood
+TARGET-ALL-P3,Primary Blood Derived Cancer - Bone Marrow,TBM,bone marrow
+TARGET-ALL-P3,Primary Blood Derived Cancer - Peripheral Blood,TB,blood
+TARGET-AML,Primary Blood Derived Cancer - Bone Marrow,TBM,bone marrow
+TARGET-AML,Primary Blood Derived Cancer - Peripheral Blood,TB,blood
+TARGET-CCSK,Primary Tumor,TP,kidney
+TARGET-CCSK,Primary Tumor,TP,adrenal gland
+TARGET-NBL,Primary Tumor,TP,brain
+TARGET-NBL,Primary Tumor,TP,adrenal gland
+TARGET-NBL,Primary Tumor,TP,nerve
+TARGET-OS,Primary Tumor,TP,muscle
+TARGET-OS,Primary Tumor,TP,bone marrow
+TARGET-RT,Primary Tumor,TP,kidney
+TARGET-RT,Primary Tumor,TP,adrenal gland
+TARGET-RT,Primary Tumor,TP,muscle
+TARGET-RT,Primary Tumor,TP,brain
+TARGET-WT,Primary Tumor,TP,kidney
+TARGET-WT,Primary Tumor,TP,adrenal gland
+
