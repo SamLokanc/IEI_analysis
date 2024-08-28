@@ -1,4 +1,4 @@
-Found in this repository are the required files to replicate our PID analysis. 
+Found in this repository are the required files to replicate our IEI analysis. 
 
 PID_analysis.R: contains R code for initial differential expression and gene ontology analysis
 DEGanalysis.ipynb: contains python code for downstream analysis based on outputs of R script
